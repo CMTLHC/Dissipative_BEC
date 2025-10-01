@@ -76,7 +76,7 @@ dt = 0.004          # real time step
 epsx = 0.09
 epsy = 0.03
 Omega = 0.75
-chem_potential = 9.45
+chem_potential = 100
 gamma = 0.03
 R_zoom = 10.0
 
